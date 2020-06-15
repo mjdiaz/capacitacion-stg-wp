@@ -1,6 +1,8 @@
 # capacitacion-stg-wp
 202006 Capacitacion STG Wordpress
 
+Slack: https://gobierno-de-santa-fe.slack.com/archives/C0153RN3T7V
+
 Clase 1:
 
 v: https://drive.google.com/file/d/1fxMen95EObBTKiHrRUWJZFmoXCgvxQ27/view
